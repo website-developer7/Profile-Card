@@ -80,9 +80,10 @@ body {
 }
 
 .role {
-    color: var(--color-second);
+    color: var(--bg-Special);
     font-weight: 500;
-    font-size: 0.95rem;
+    font-size: 1.05rem;
+    padding: 10px;
 }
 
 .desc {
